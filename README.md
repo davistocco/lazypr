@@ -1,3 +1,3 @@
 # lazypr
 
-goiaba banana
+push trigger
