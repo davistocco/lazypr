@@ -1,3 +1,3 @@
 # lazypr
 
-push trigger
+push trigger a
