@@ -1,1 +1,3 @@
 # lazypr
+
+test lazypr
